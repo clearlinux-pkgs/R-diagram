@@ -5,7 +5,7 @@
 #
 Name     : R-diagram
 Version  : 1.6.5
-Release  : 3
+Release  : 4
 URL      : https://cran.r-project.org/src/contrib/diagram_1.6.5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/diagram_1.6.5.tar.gz
 Summary  : Functions for Visualising Simple Graphs (Networks), Plotting
